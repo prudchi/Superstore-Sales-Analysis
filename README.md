@@ -40,13 +40,15 @@ The goal was to uncover key business insights through **data cleaning, transform
 ## Dataset
 - **data/sample-superstore.xlsx** → Raw dataset before cleaning (publicly available sample dataset).
 - **dashboard/Superstore.xlsx** → Cleaned and transformed version with dashboard and pivot tables.
+- **images/dashboard_img.png** → Included a screenshot of the dashboard in Excel.
   
 ---
 
 ## How to Use
 1. Download the raw Excel file from the data folder.
-2. Download the Cleaned and Visualized Excel file from the dashboard folder.    
-3. Open in Excel to interact with slicers, charts, and KPIs.
+2. Download the Cleaned and Visualized Excel file from the dashboard folder.
+3. Preview the dashboard image inserted.
+4. Open in Excel to interact with slicers, charts, and KPIs.
 
 ---
 
