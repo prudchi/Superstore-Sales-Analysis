@@ -37,6 +37,12 @@ The goal was to uncover key business insights through **data cleaning, transform
 
 ---
 
+## Dataset
+- **superstore_original.xlsx** → Raw dataset before cleaning (publicly available sample dataset).
+- **Superstore_Dashboard.xlsx** → Cleaned and transformed version with dashboard and pivot tables.
+  
+---
+
 ## How to Use
 1. Download the Excel file from the [`dashboard/`](./dashboard/) folder.  
 2. Open in Excel to interact with slicers, charts, and KPIs.
