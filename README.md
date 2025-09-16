@@ -38,8 +38,8 @@ The goal was to uncover key business insights through **data cleaning, transform
 ---
 
 ## Dataset
-- **superstore_original.xlsx** → Raw dataset before cleaning (publicly available sample dataset).
-- **Superstore_Dashboard.xlsx** → Cleaned and transformed version with dashboard and pivot tables.
+- **sample-superstore.xlsx** → Raw dataset before cleaning (publicly available sample dataset).
+- **Superstore.xlsx** → Cleaned and transformed version with dashboard and pivot tables.
   
 ---
 
